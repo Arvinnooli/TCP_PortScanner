@@ -4,7 +4,7 @@ A TCP port scanner is a tool that allows a user to identify open TCP ports on a 
 
 The given port scanner scans the ports in four different ports   
 
-*TCP
-*UDP
-*SYN
-*FIN
+* TCP
+* UDP
+* SYN
+* FIN
