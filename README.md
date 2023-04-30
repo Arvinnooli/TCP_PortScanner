@@ -7,4 +7,8 @@ The given port scanner scans the ports in four different ports
 * TCP
 * UDP
 * SYN
-* FIN
+* FIN  
+
+gives you the open ports and the time taken in seconds  
+
+<img>![image](https://user-images.githubusercontent.com/93171827/235361566-e925334c-7174-4bf2-ae21-eea6e17148f9.png)</img>
